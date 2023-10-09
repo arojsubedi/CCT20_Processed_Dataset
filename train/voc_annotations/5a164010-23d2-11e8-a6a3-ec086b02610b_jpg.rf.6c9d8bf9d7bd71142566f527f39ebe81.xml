@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>5a164010-23d2-11e8-a6a3-ec086b02610b_jpg.rf.6c9d8bf9d7bd71142566f527f39ebe81.jpg</filename>
+	<path>5a164010-23d2-11e8-a6a3-ec086b02610b_jpg.rf.6c9d8bf9d7bd71142566f527f39ebe81.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>450</xmin>
+			<xmax>514</xmax>
+			<ymin>418</ymin>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>
