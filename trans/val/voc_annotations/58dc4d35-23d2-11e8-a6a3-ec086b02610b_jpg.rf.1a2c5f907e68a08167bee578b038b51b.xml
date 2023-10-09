@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>58dc4d35-23d2-11e8-a6a3-ec086b02610b_jpg.rf.1a2c5f907e68a08167bee578b038b51b.jpg</filename>
+	<path>58dc4d35-23d2-11e8-a6a3-ec086b02610b_jpg.rf.1a2c5f907e68a08167bee578b038b51b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>255</xmin>
+			<xmax>327</xmax>
+			<ymin>364</ymin>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>
