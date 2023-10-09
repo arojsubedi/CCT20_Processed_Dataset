@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>59a62bb0-23d2-11e8-a6a3-ec086b02610b_jpg.rf.249741388b067743285c47507aa9b107.jpg</filename>
+	<path>59a62bb0-23d2-11e8-a6a3-ec086b02610b_jpg.rf.249741388b067743285c47507aa9b107.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>368</xmin>
+			<xmax>638</xmax>
+			<ymin>370</ymin>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+</annotation>
