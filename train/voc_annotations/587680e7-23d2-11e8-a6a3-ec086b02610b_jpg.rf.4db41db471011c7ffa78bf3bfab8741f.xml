@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>587680e7-23d2-11e8-a6a3-ec086b02610b_jpg.rf.4db41db471011c7ffa78bf3bfab8741f.jpg</filename>
+	<path>587680e7-23d2-11e8-a6a3-ec086b02610b_jpg.rf.4db41db471011c7ffa78bf3bfab8741f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opossum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>489</xmin>
+			<xmax>640</xmax>
+			<ymin>388</ymin>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
